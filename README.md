@@ -42,7 +42,7 @@ I believe in lifelong learning and continuously seek out new challenges and oppo
 
 Feel free to reach out to me for collaborations or just a chat about data science, technology, and innovation!
 
-- **LinkedIn**: [[Your LinkedIn](https://www.linkedin.com/in/dleonr/)](#)
+- **LinkedIn**: [dleonr](https://www.linkedin.com/in/dleonr/)
 - **Email**: [diego.leon07@outlook.com](#)
 
 ---
