@@ -29,11 +29,6 @@ As I navigate through my career, I'm dedicated to advancing in the realm of **Da
 - **Tools & Platforms**: PyCharm,Jupyter Notebook, Tableau, Power BI, Looker Studio, Scikit-learn, AWS
 - **Databases**: MySQL, DB2, MongoDB, Snowflake
 
-## 🌟 Achievements
-
-- Developed a comprehensive deposit stability model during a pandemic, optimizing financial resilience.
-- Tailored profitability models for Automotive insurers, enhancing business strategies and financial outcomes.
-
 ## 📚 Continuous Learning
 
 I believe in lifelong learning and continuously seek out new challenges and opportunities to grow. Through my Master's program and professional experiences, I aim to stay at the forefront of the data science field, embracing new technologies and methodologies.
